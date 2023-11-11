@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luke Kuzmish</h1>
 <h3 align="center">A guy who likes to solve problems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmastech&label=Profile%20views&color=0e75b6&style=flat" alt="cosmastech" /> </p>
-
 <p align="left"> <a href="https://twitter.com/cosmastech" target="blank"><img src="https://img.shields.io/twitter/follow/cosmastech?logo=twitter&style=for-the-badge" alt="cosmastech" /></a> </p>
 
 - 📝 I write articles on [https://cosmastech.com](https://cosmastech.com)
@@ -21,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmastech&show_icons=true&locale=en" alt="cosmastech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmastech&" alt="cosmastech" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmastech&label=Profile%20views&color=0e75b6&style=flat" alt="cosmastech" /> </p>
