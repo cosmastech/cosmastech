@@ -20,4 +20,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmastech&" alt="cosmastech" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmastech&layout=compact)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmastech&label=Profile%20views&color=0e75b6&style=flat" alt="cosmastech" /> </p>
